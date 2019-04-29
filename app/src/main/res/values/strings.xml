@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Swadesh FM</string>
+    <string name="radio_url">http://216.55.141.189:8653/live</string>
+
+    <string name="no_stream">Radio station couldn\'t stream!</string>
+    <string name="live_broadcast">You are Listning Swadesh FM</string>
+</resources>
